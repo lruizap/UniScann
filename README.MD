@@ -1,5 +1,5 @@
 
-# CodeScanX (Working Title)
+# UniScann
 
 This repository hosts an experimental project aimed at **scanning and differentiating between various types of codes**, such as **barcodes** and **DataMatrix codes**, with the goal of extracting meaningful data from them.
 

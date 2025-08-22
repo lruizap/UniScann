@@ -1,0 +1,13 @@
+train: ../dataset/train/images
+val: ../dataset/valid/images
+test: ../dataset/test/images
+
+nc: 2
+names: ["Barcode", "QR Code"]
+
+roboflow:
+  workspace: labeler-projects
+  project: barcodes-zmxjq
+  version: 5
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/labeler-projects/barcodes-zmxjq/dataset/5
